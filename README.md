@@ -10,4 +10,5 @@ Repositório inicial do curso GutHub4Women
 ## Contato
 
 email: Jessicacisnee@gmail.com
+linkedin: https://www.linkedin.com/in/j%C3%A9ssica-cisne-69444332b/
 
