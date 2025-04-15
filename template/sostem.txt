@@ -1,0 +1,4 @@
+conteúdo sos.template.txt
+
+#Hello, Git4Women
+
