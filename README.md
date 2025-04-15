@@ -7,3 +7,7 @@ Repositório inicial do curso GutHub4Women
 
 3.Claro e obejtivo sobre o que o repositório está fazendo
 
+## Contato
+
+email: Jessicacisnee@gmail.com
+
